@@ -3,7 +3,7 @@
 
 此组织下大多数项目是本人研究压缩算法的时候为了加深理解对各种压缩算法的一个实现，欢迎压缩算法爱好者加入
 
-项目基本都是私有状态，完成度比较高的会将其make public，如果您想一睹为快可以给本人写邮件拉您进组。  
+项目基本都是私有状态，完成度比较高的会将其make public，如果您想一睹为快可以给本人[写邮件](mailto:CC11001100@qq.com)拉您进组。  
 
 # 整数压缩 
 - [varint](github.com/compression-algorithm-research-lab/go-varint)
