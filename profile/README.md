@@ -15,8 +15,8 @@
 - [simple8b](https://github.com/compression-algorithm-research-lab/go-simple8b)
 
 # 基于字典
-- [https://github.com/compression-algorithm-research-lab/go-RLE](https://github.com/compression-algorithm-research-lab/go-RLE)
-- [https://github.com/compression-algorithm-research-lab/go-LZ4](https://github.com/compression-algorithm-research-lab/go-LZ4)
+- [RLE](https://github.com/compression-algorithm-research-lab/go-RLE)
+- [LZ4](https://github.com/compression-algorithm-research-lab/go-LZ4)
 - [lz77](https://github.com/compression-algorithm-research-lab/go-LZ77)
 - [lz78](https://github.com/compression-algorithm-research-lab/go-LZ78)
 - [snappy](https://github.com/compression-algorithm-research-lab/go-snappy)
