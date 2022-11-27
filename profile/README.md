@@ -6,7 +6,7 @@
 项目基本都是私有状态，完成度比较高的会将其make public，如果您想一睹为快可以给本人写邮件[CC11001100@qq.com](mailto:CC11001100@qq.com)拉您进组。  
 
 # 整数压缩 
-- [varint](github.com/compression-algorithm-research-lab/go-varint)
+- [varint](https://github.com/compression-algorithm-research-lab/go-varint)
 - [zigzag](https://github.com/compression-algorithm-research-lab/go-zigzag)
 - [bit-packing](https://github.com/compression-algorithm-research-lab/go-bit-packing)
 - [golomb](https://github.com/compression-algorithm-research-lab/go-golomb)
