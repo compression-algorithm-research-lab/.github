@@ -45,5 +45,3 @@
 - [https://github.com/compression-algorithm-research-lab/go-callstack-compression](https://github.com/compression-algorithm-research-lab/go-callstack-compression)
 - [https://github.com/compression-algorithm-research-lab/go-num-series-compress-to-line](https://github.com/compression-algorithm-research-lab/go-num-series-compress-to-line)
 - [https://github.com/compression-algorithm-research-lab/go-static-dictionary-compression](https://github.com/compression-algorithm-research-lab/go-static-dictionary-compression)
-- [https://github.com/compression-algorithm-research-lab/go-bool-compression](https://github.com/compression-algorithm-research-lab/go-bool-compression)
-- [https://github.com/compression-algorithm-research-lab/go-float-compression](https://github.com/compression-algorithm-research-lab/go-float-compression)
