@@ -10,7 +10,6 @@
 - [zigzag](https://github.com/compression-algorithm-research-lab/go-zigzag)
 - [bit-packing](https://github.com/compression-algorithm-research-lab/go-bit-packing)
 - [golomb](https://github.com/compression-algorithm-research-lab/go-golomb)
-
 - [xor-compression](https://github.com/compression-algorithm-research-lab/go-xor-compression)
 - [simple8b](https://github.com/compression-algorithm-research-lab/go-simple8b)
 
