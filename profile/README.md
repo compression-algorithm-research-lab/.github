@@ -10,9 +10,13 @@
 - [zigzag](https://github.com/compression-algorithm-research-lab/go-zigzag)
 - [bit-packing](https://github.com/compression-algorithm-research-lab/go-bit-packing)
 - [golomb](https://github.com/compression-algorithm-research-lab/go-golomb)
-- [arithmetic-encoding](https://github.com/compression-algorithm-research-lab/go-arithmetic-encoding)
+
 - [xor-compression](https://github.com/compression-algorithm-research-lab/go-xor-compression)
 - [simple8b](https://github.com/compression-algorithm-research-lab/go-simple8b)
+
+# 熵编码
+- [arithmetic-encoding](https://github.com/compression-algorithm-research-lab/go-arithmetic-encoding)
+- [huffman](https://github.com/compression-algorithm-research-lab/go-huffman-compression)
 
 # 基于字典
 - [RLE](https://github.com/compression-algorithm-research-lab/go-RLE)
@@ -24,7 +28,6 @@
 - [deflate](https://github.com/compression-algorithm-research-lab/go-deflate)
 - [lzw](https://github.com/compression-algorithm-research-lab/go-LZW)
 - [lzma](https://github.com/compression-algorithm-research-lab/go-LZMA)
-- [huffman](https://github.com/compression-algorithm-research-lab/go-huffman-compression)
 - [lzo](https://github.com/compression-algorithm-research-lab/go-LZO)
 - [lzrw](https://github.com/compression-algorithm-research-lab/go-LZRW)
 - [lzss](https://github.com/compression-algorithm-research-lab/go-LZSS)
