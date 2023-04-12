@@ -1,11 +1,12 @@
-# 压缩算法研究实验室 
+# Compression Algorithm Research Lab
 
 
-此组织下大多数项目是本人研究压缩算法的时候为了加深理解对各种压缩算法的一个实现，欢迎压缩算法爱好者加入
+Most of the projects under this organization are my research compression algorithm in order to deepen the understanding of a variety of compression algorithm implementation, welcome compression algorithm enthusiasts to join
 
-项目基本都是私有状态，完成度比较高的会将其make public，如果您想一睹为快可以给本人写邮件[CC11001100@qq.com](mailto:CC11001100@qq.com)拉您进组。  
+Most projects are private, and those with a high degree of completion will make them public. If you want to have a look at them, you can write me an email [CC11001100@qq.com](mailto:CC11001100@qq.com) to include you in the group.
 
-# 整数压缩 
+# Lossless data compression algorithms 
+## Number compression
 - [varint](https://github.com/compression-algorithm-research-lab/go-varint)
 - [zigzag](https://github.com/compression-algorithm-research-lab/go-zigzag)
 - [bit-packing](https://github.com/compression-algorithm-research-lab/go-bit-packing)
@@ -13,11 +14,11 @@
 - [xor-compression](https://github.com/compression-algorithm-research-lab/go-xor-compression)
 - [simple8b](https://github.com/compression-algorithm-research-lab/go-simple8b)
 
-# 熵编码
+## 熵编码
 - [arithmetic-encoding](https://github.com/compression-algorithm-research-lab/go-arithmetic-encoding)
 - [huffman](https://github.com/compression-algorithm-research-lab/go-huffman-compression)
 
-# 基于字典
+## 基于字典
 - [RLE](https://github.com/compression-algorithm-research-lab/go-RLE)
 - [LZ4](https://github.com/compression-algorithm-research-lab/go-LZ4)
 - [lz77](https://github.com/compression-algorithm-research-lab/go-LZ77)
@@ -32,10 +33,10 @@
 - [lzss](https://github.com/compression-algorithm-research-lab/go-LZSS)
 - [zstd](https://github.com/compression-algorithm-research-lab/go-zstd)
 
-# 针对JSON数据的压缩
+## 针对JSON数据的压缩
 - [https://github.com/compression-algorithm-research-lab/go-json-compression-algorithm](https://github.com/compression-algorithm-research-lab/go-json-compression-algorithm)
 
-# 具有时序特性的数据的压缩
+## 具有时序特性的数据的压缩
 - [https://github.com/compression-algorithm-research-lab/go-time-series-compress](https://github.com/compression-algorithm-research-lab/go-time-series-compress)
 
 
