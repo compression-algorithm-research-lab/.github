@@ -1,4 +1,4 @@
-中文 | [English](./profile/README_en.md)
+中文 | [English](https://github.com/compression-algorithm-research-lab/.github/blob/main/profile/README_en.md)
 
 # 一、压缩算法实验室
 
