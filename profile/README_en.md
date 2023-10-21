@@ -1,4 +1,4 @@
-[中文](./profile/README.md) | English
+[中文](https://github.com/compression-algorithm-research-lab/.github/blob/main/profile/README.md) | English
 
 # Compression Algorithm Research Lab
 
