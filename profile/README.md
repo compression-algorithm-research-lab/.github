@@ -1,12 +1,17 @@
-# Compression Algorithm Research Lab
+# 中文 | [English](./README_en.md)
 
+# 一、压缩算法实验室
 
-Most of the projects under this organization are my research compression algorithm in order to deepen the understanding of a variety of compression algorithm implementation, welcome compression algorithm enthusiasts to join
+本组织下大部分项目都是我研究压缩算法以便加深对各种压缩算法实现的理解，对齐进行编码实现并扩展探索，欢迎压缩算法爱好者加入
 
-Most projects are private, and those with a high degree of completion will make them public. If you want to have a look at them, you can write me an email [CC11001100@qq.com](mailto:CC11001100@qq.com) to include you in the group.
+大多数项目都是private的，完成度高的项目会公开。 如果您也对压缩算法有兴趣，可以给我发邮件CC11001100@qq.com附上GitHub ID拉你进组织。
 
-# Lossless data compression algorithms 
-## Number compression
+# 二、无损压缩算法
+
+## 2.1 字符串压缩算法
+
+## 2.2 整数压缩算法
+
 - [varint](https://github.com/compression-algorithm-research-lab/go-varint)
 - [zigzag](https://github.com/compression-algorithm-research-lab/go-zigzag)
 - [bit-packing](https://github.com/compression-algorithm-research-lab/go-bit-packing)
@@ -14,11 +19,11 @@ Most projects are private, and those with a high degree of completion will make 
 - [xor-compression](https://github.com/compression-algorithm-research-lab/go-xor-compression)
 - [simple8b](https://github.com/compression-algorithm-research-lab/go-simple8b)
 
-## 熵编码
+## 2.3 熵编码
 - [arithmetic-encoding](https://github.com/compression-algorithm-research-lab/go-arithmetic-encoding)
 - [huffman](https://github.com/compression-algorithm-research-lab/go-huffman-compression)
 
-## 基于字典
+## 2.4 基于字典
 - [RLE](https://github.com/compression-algorithm-research-lab/go-RLE)
 - [LZ4](https://github.com/compression-algorithm-research-lab/go-LZ4)
 - [lz77](https://github.com/compression-algorithm-research-lab/go-LZ77)
@@ -33,17 +38,26 @@ Most projects are private, and those with a high degree of completion will make 
 - [lzss](https://github.com/compression-algorithm-research-lab/go-LZSS)
 - [zstd](https://github.com/compression-algorithm-research-lab/go-zstd)
 
-## 针对JSON数据的压缩
+## 2.5 针对JSON数据的压缩
 - [https://github.com/compression-algorithm-research-lab/go-json-compression-algorithm](https://github.com/compression-algorithm-research-lab/go-json-compression-algorithm)
 
-## 具有时序特性的数据的压缩
+## 2.6 具有时序特性的数据的压缩
 - [https://github.com/compression-algorithm-research-lab/go-time-series-compress](https://github.com/compression-algorithm-research-lab/go-time-series-compress)
 
+## 2.7 时间/日期数据压缩算法
 
-# 压缩的安全性
+- https://github.com/compression-algorithm-research-lab/go-delta
+- https://github.com/compression-algorithm-research-lab/go-delta-of-delta
+
+# 二、有损压缩算法
+
+TODO
+
+
+# 三、压缩的安全性
 - [https://github.com/compression-algorithm-research-lab/zip-bomb](https://github.com/compression-algorithm-research-lab/zip-bomb)
 
-# 对压缩算法工程化的更多思考假设以及验证
+# 四、对压缩算法工程化的更多思考假设以及验证
 - [https://github.com/compression-algorithm-research-lab/dynamic-dictionary-storage](https://github.com/compression-algorithm-research-lab/dynamic-dictionary-storage)
 - [https://github.com/compression-algorithm-research-lab/go-callstack-compression](https://github.com/compression-algorithm-research-lab/go-callstack-compression)
 - [https://github.com/compression-algorithm-research-lab/go-num-series-compress-to-line](https://github.com/compression-algorithm-research-lab/go-num-series-compress-to-line)
